@@ -1,2 +1,1 @@
 consol.log(*My jurney*)
- 
